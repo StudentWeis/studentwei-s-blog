@@ -2,12 +2,9 @@
 # Display name
 title: 魏恒毅
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
-
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: HengYi
+last_name: Wei
 
 # Status emoji
 status:
@@ -17,11 +14,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postgraduate of Control Science and Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: Tianjin University
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
